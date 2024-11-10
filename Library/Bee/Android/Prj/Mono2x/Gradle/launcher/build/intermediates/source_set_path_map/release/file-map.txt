@@ -1,0 +1,9 @@
+com.DefaultCompany.RTS3d.launcher-pngs-0 E:\RTS3d\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.RTS3d.launcher-resValues-1 E:\RTS3d\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.RTS3d.launcher-rs-2 E:\RTS3d\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.RTS3d.launcher-mergeReleaseResources-3 E:\RTS3d\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.RTS3d.launcher-mergeReleaseResources-4 E:\RTS3d\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.RTS3d.launcher-merged_res-5 E:\RTS3d\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.RTS3d.launcher-main-6 E:\RTS3d\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.RTS3d.launcher-release-7 E:\RTS3d\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.RTS3d.launcher-packaged_res-8 E:\RTS3d\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release

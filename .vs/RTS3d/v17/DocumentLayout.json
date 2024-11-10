@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RTS3d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|e:\\rts3d\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|E:\\RTS3d\\assets\\episode11_assets_rts\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\episode11_assets_rts\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|E:\\RTS3d\\assets\\texturetomaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\texturetomaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|e:\\rts3d\\assets\\script\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|E:\\RTS3d\\assets\\script\\wavespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wavespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|e:\\rts3d\\assets\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|E:\\RTS3d\\assets\\joystick pack\\scripts\\base\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\joystick pack\\scripts\\base\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|E:\\RTS3d\\assets\\virtualjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\virtualjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|E:\\RTS3d\\assets\\script\\unitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unitmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|E:\\RTS3d\\assets\\script\\attackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\attackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|E:\\RTS3d\\assets\\script\\unitselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unitselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|E:\\RTS3d\\assets\\script\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1AD03-2481-0657-080A-599AA7CBB9E1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\simplepatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttackController.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\Script\\AttackController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AttackController.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\Script\\AttackController.cs",
+              "RelativeToolTip": "Assets\\Script\\AttackController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:36:23.948Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\Script\\Unit.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Unit.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\Script\\Unit.cs",
+              "RelativeToolTip": "Assets\\Script\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:39:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButtonManager.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\ButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ButtonManager.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\ButtonManager.cs",
+              "RelativeToolTip": "Assets\\ButtonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:19.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitMovement.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\Script\\UnitMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UnitMovement.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\Script\\UnitMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\UnitMovement.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:07:55.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VirtualJoystick.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\VirtualJoystick.cs",
+              "RelativeDocumentMoniker": "Assets\\VirtualJoystick.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\VirtualJoystick.cs",
+              "RelativeToolTip": "Assets\\VirtualJoystick.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:06:08.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Joystick.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\Joystick Pack\\Scripts\\Base\\Joystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\Base\\Joystick.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\Joystick Pack\\Scripts\\Base\\Joystick.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\Base\\Joystick.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:03:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextureToMaterial.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\TextureToMaterial.cs",
+              "RelativeDocumentMoniker": "Assets\\TextureToMaterial.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\TextureToMaterial.cs",
+              "RelativeToolTip": "Assets\\TextureToMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:53:13.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimplePatrol.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\Script\\SimplePatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SimplePatrol.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\Script\\SimplePatrol.cs",
+              "RelativeToolTip": "Assets\\Script\\SimplePatrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:18:14.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaveSpawner.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\Script\\WaveSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WaveSpawner.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\Script\\WaveSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\WaveSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:41:18.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\Episode11_Assets_RTS\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Episode11_Assets_RTS\\Scripts\\UIManager.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\Episode11_Assets_RTS\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Episode11_Assets_RTS\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:01:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4v1MAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:57:52.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitSelectionManager.cs",
+              "DocumentMoniker": "E:\\RTS3d\\Assets\\Script\\UnitSelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UnitSelectionManager.cs",
+              "ToolTip": "E:\\RTS3d\\Assets\\Script\\UnitSelectionManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UnitSelectionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:50:17.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
